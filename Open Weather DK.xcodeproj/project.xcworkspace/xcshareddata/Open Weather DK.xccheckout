@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>6C608642-7CA8-4276-9344-BF0B2BFC6AA8</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Open Weather DK</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>045D1B6E9A3F07F5653D289B30534D6F8E9B3CCD</key>
+		<string>https://github.com/uchicago-mobi/JiamingDong-MPCS51030-Winter-2015-Project.git</string>
+		<key>1CEAB9233BA6A28B87AB00157B2B8CE054C39B36</key>
+		<string>https://github.com/uchicago-mobi/LingduoKong-MPCS51030-Winter-2015-Project.git</string>
+		<key>868EC365D84CF44A205773C579EAB7F37DD97D30</key>
+		<string>https://github.com/JiamingDong/Open-Weather-DK.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Open Weather DK.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>045D1B6E9A3F07F5653D289B30534D6F8E9B3CCD</key>
+		<string>../..</string>
+		<key>1CEAB9233BA6A28B87AB00157B2B8CE054C39B36</key>
+		<string>../../../LingduoKong-MPCS51030-Winter-2015-Project</string>
+		<key>868EC365D84CF44A205773C579EAB7F37DD97D30</key>
+		<string>../../../Open-Weather-DK-GITHUB</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/uchicago-mobi/JiamingDong-MPCS51030-Winter-2015-Project.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>045D1B6E9A3F07F5653D289B30534D6F8E9B3CCD</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>045D1B6E9A3F07F5653D289B30534D6F8E9B3CCD</string>
+			<key>IDESourceControlWCCName</key>
+			<string>JiamingDong-MPCS51030-Winter-2015-Project</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>1CEAB9233BA6A28B87AB00157B2B8CE054C39B36</string>
+			<key>IDESourceControlWCCName</key>
+			<string>LingduoKong-MPCS51030-Winter-2015-Project</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>868EC365D84CF44A205773C579EAB7F37DD97D30</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Open-Weather-DK-GITHUB</string>
+		</dict>
+	</array>
+</dict>
+</plist>
